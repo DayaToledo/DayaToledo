@@ -15,18 +15,18 @@ vez mais, aprendendo novas tecnologias.
 - 🔗 LinkedIn: https://www.linkedin.com/in/toledodayana/
 
 ##
-<p align="center">
+<p align="centre">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="160"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaToledo&layout=compact&theme=radical"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="160"
       src="https://github-readme-stats.vercel.app/api?username=DayaToledo&count_private=true&show_icons=true&hide=stars,issues&theme=radical"
     />
   </a>
