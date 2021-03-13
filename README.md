@@ -15,7 +15,7 @@ vez mais, aprendendo novas tecnologias.
 - 🔗 LinkedIn: https://www.linkedin.com/in/toledodayana/
 
 ##
-<p align="centre">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
